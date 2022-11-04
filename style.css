@@ -208,7 +208,7 @@ hr{
 
 /* Code for photo1  */
 .photo1{
-    background: url(bg5.jpg);
+    background: url(https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
     background-position: center;
     background-size: cover;
     height: 50vw;
@@ -250,22 +250,22 @@ hr{
 }
 
 .lonavala{
-    background: url(bg4.jpg);
+    background: url(https://c4.wallpaperflare.com/wallpaper/591/300/904/mountains-minimalism-forest-firewatch-wallpaper-preview.jpg);
     background-position: center;
     background-size: cover;
 }
 .calangute{
-    background: url(bg5.jpg);
+    background: url(https://www.addictivetips.com/app/uploads/2020/04/6GUlZKR.png);
     background-size: cover;
     background-position: center;
 }
 .puducherry{
-    background: url(bg6.jpg);
+    background: url(https://assets.hongkiat.com/uploads/minimalist-dekstop-wallpapers/4k/original/12.jpg?3);
     background-position: center;
     background-size: cover;
 }
 .panchgani{
-    background: url(bg7.jpg);
+    background: url(https://assets.hongkiat.com/uploads/minimalist-dekstop-wallpapers/4k/original/17.jpg?3);
     background-position: center;
     background-size: cover;
 
@@ -311,13 +311,13 @@ hr{
 }
 
 .home{
-    background: url(bg7.jpg);
+    background: url(https://assets.hongkiat.com/uploads/minimalist-dekstop-wallpapers/4k/preview/14.jpg?3);
     background-size: cover;
     background-position: center;
 }
 
 .trip{
-    background: url(bg6.jpg);
+    background: url(https://assets.hongkiat.com/uploads/minimalist-dekstop-wallpapers/4k/original/15.jpg?3);
     background-size: cover;
     background-position: center;
 }
@@ -337,7 +337,7 @@ hr{
 .questions{
     margin: 2vw 0vw 2vw 0vw;
     height: 80%;
-    background: url(bg02.jpg);
+    background: url(https://images.unsplash.com/photo-1517760444937-f6397edcbbcd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
     background-size: cover;
     background-position: center;
     padding: 4vw;
